@@ -1,2 +1,3 @@
-# py-dock-build
-Example of building a python docker image from a requirements.txt
+# Python Image Builder
+
+The goal of this repository is to provide a quick template for using GitHub Actions to build a python container image with a simple requirements.txt.
